@@ -1,4 +1,5 @@
 # 📊 Sales Analysis Dashboard | Power BI Project
+Proyecto de portafolio enfocado en análisis de datos y visualización para toma de decisiones.
 
 ## 📌 Descripción
 Este proyecto consiste en un análisis de ventas desarrollado en Power BI.
