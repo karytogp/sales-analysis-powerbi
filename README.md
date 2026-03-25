@@ -26,6 +26,8 @@ Identificar tendencias de ventas, ciudades con mayor participación y categoría
 ## 📎 Dashboard
 <img width="1403" height="672" alt="image" src="https://github.com/user-attachments/assets/c65391a8-bf24-4c16-b9a3-58801d0f3b00" />
 
+![Dashboard](nombre-imagen.png)
+
 
 ## 🚀 Conclusión
 El análisis permite entender el comportamiento de ventas y apoyar decisiones estratégicas.
